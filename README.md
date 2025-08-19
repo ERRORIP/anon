@@ -85,7 +85,7 @@
 ```
 اینجوری وقتی کاربر روی دکمه کلیک می‌کنه، ربات کد رو می‌گیره، میره تو دیتابیس خودش نگاه می‌کنه و می‌فهمه باید پیام رو به کی بفرسته. تمام! هویت شما امن باقی می‌مونه.
 
-![این دیاگرام نشون می‌ده کار درست چجوریه](pic/4.png)
+![این دیاگرام نشون می‌ده کار درست چجوریه]([pic/4.png](https://private-user-images.githubusercontent.com/118823267/479618548-5fa9817d-405c-4716-ac78-8bc2dfd378d8.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2MjE4MzIsIm5iZiI6MTc1NTYyMTUzMiwicGF0aCI6Ii8xMTg4MjMyNjcvNDc5NjE4NTQ4LTVmYTk4MTdkLTQwNWMtNDcxNi1hYzc4LThiYzJkZmQzNzhkOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxOVQxNjM4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01Y2I2ZGQzYmFmNjM4NjNlZjdhMjRjZDdiYzFiMWYyMWMxNjRhZTZhNWMzNDUyYTVlMGU3MTI1NzIwOWNhMWE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.XKOSSD6WQXcJU5CjoEKLpOicWyMIfKLwUJTLsxaEplU))
 
 ### ۲. استفاده از رمزنگاری پیشرفته و چندمرحله‌ای 🔐
 
