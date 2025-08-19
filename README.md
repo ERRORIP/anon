@@ -12,7 +12,7 @@
 
 وقتی تو یه ربات ناشناس پیام می‌گیری، زیرش چندتا دکمه خوشگل می‌بینی مثل "پاسخ دادن" یا "بلاک کردن". به اینا میگن **دکمه‌های شیشه‌ای** (Inline Buttons).
 
-![ایناها، از همین دکمه‌ها حرف می‌زنم](pic/1.jpg)
+![ایناها، از همین دکمه‌ها حرف می‌زنم](https://private-user-images.githubusercontent.com/118823267/479613717-c82cdbf6-d9fd-44f3-a3b3-4e621cef8f75.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2MjE4MzIsIm5iZiI6MTc1NTYyMTUzMiwicGF0aCI6Ii8xMTg4MjMyNjcvNDc5NjEzNzE3LWM4MmNkYmY2LWQ5ZmQtNDRmMy1hM2IzLTRlNjIxY2VmOGY3NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxOVQxNjM4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNjc5Nzg0NjRmYTIzMDRkMTgzMWFhY2IzZDEwYjkyN2E5MDFkMjhmMzY3NTE1NGYwYjM2ZjJjZjk5NTQyMWZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SpP7EyMUwoDV8SMxYII3Y-lTpAsEgpjwJ7hLiBpIuds)
 
 حالا وقتی روی یکی از این دکمه‌ها می‌زنی، یه چیزی به اسم **کال‌بک کوئری (Callback Query)** برای ربات فرستاده می‌شه. فکر کن یه نامه محرمانه می‌فرستی به ربات و توش می‌گی: «آهای ربات! من روی دکمه "پاسخ" برای این پیام کلیک کردم». 💌
 
@@ -99,8 +99,6 @@
 ---
 
 اینجوری وقتی شما روی دکمه کلیک می‌کنی، ربات کد الکی رو می‌گیره، میره تو دیتابیس خودش نگاه می‌کنه و می‌فهمه باید پیام رو به کی بفرسته. تمام! هویت شما امن باقی می‌مونه. 🛡️
-
-![این دیاگرام نشون می‌ده کار درست چجوریه](pic/4.png)
 
 ---
 
