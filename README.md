@@ -12,7 +12,7 @@
 
 وقتی تو یه ربات ناشناس پیام می‌گیری، زیرش چندتا دکمه خوشگل می‌بینی مثل "پاسخ دادن" یا "بلاک کردن". به اینا میگن **دکمه‌های شیشه‌ای** (Inline Buttons).
 
-![ایناها، از همین دکمه‌ها حرف می‌زنم](https://private-user-images.githubusercontent.com/118823267/479613717-c82cdbf6-d9fd-44f3-a3b3-4e621cef8f75.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2MjE4MzIsIm5iZiI6MTc1NTYyMTUzMiwicGF0aCI6Ii8xMTg4MjMyNjcvNDc5NjEzNzE3LWM4MmNkYmY2LWQ5ZmQtNDRmMy1hM2IzLTRlNjIxY2VmOGY3NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxOVQxNjM4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNjc5Nzg0NjRmYTIzMDRkMTgzMWFhY2IzZDEwYjkyN2E5MDFkMjhmMzY3NTE1NGYwYjM2ZjJjZjk5NTQyMWZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SpP7EyMUwoDV8SMxYII3Y-lTpAsEgpjwJ7hLiBpIuds)
+![ایناها، از همین دکمه‌ها حرف می‌زنم](pic/1.png)
 
 حالا وقتی روی یکی از این دکمه‌ها می‌زنی، یه چیزی به اسم **کال‌بک کوئری (Callback Query)** برای ربات فرستاده می‌شه. فکر کن یه نامه محرمانه می‌فرستی به ربات و توش می‌گی: «آهای ربات! من روی دکمه "پاسخ" برای این پیام کلیک کردم». 💌
 
@@ -38,7 +38,7 @@
 
 کافیه با تلگرام دسکتاپ از چت با ربات یه خروجی (Export) بگیری. بعد فایل HTML رو که باز کنی، مثل روز روشنه که چت آیدی طرفِ مقابل چنده. به همین راحتی!
 
-![بفرما! آیدی طرف مثل هلو افتاده بیرون!](https://private-user-images.githubusercontent.com/118823267/479616585-1244fde8-1c66-490d-ab30-4ea62b8e84cd.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2MjE4MzIsIm5iZiI6MTc1NTYyMTUzMiwicGF0aCI6Ii8xMTg4MjMyNjcvNDc5NjE2NTg1LTEyNDRmZGU4LTFjNjYtNDkwZC1hYjMwLTRlYTYyYjhlODRjZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxOVQxNjM4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hODZiMzcxNWNhNTcwMGNjOWJiYjI5N2VkYmE4ZTZjMWNiYTQzNWUwNGI4OThiN2U2NmJlZWE3MmQyNjhjYjVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cXuBX58OeBYg5siM6hV6WCnvYLXfsPrbpbSKjO8R9-Q)
+![بفرما! آیدی طرف مثل هلو افتاده بیرون!](pic/2.png)
 
 بعدش هم با اون چت آیدی، پیدات می‌کنن(چون هر اکانت تلگرامی یه چت ایدی داره که مثل یوزر نیم قابل تغییر نیست و همیشه یه عدد میمونه). یه عده هم از همین راه دارن پول درمیارن و هویت شما رو می‌فروشن. 
 
@@ -58,7 +58,7 @@
 
 این کار مثل اینه که روی یه بسته پستی مهم، آدرس رو به(یه زبان دیگه)زبان مرُغی بنویسی! 🐔 هر بچه‌ای هم می‌تونه با یه ابزار آنلاین ساده دیکُدش کنه و به آیدی اصلی برسه. پس اینم امنیت نداره!
 
-![دو ثانیه هم طول نکشید تا آیدی اصلی در بیاد!](https://private-user-images.githubusercontent.com/118823267/479617379-c82f8b00-2d10-44a1-bcf0-42251338138f.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2MjE4MzIsIm5iZiI6MTc1NTYyMTUzMiwicGF0aCI6Ii8xMTg4MjMyNjcvNDc5NjE3Mzc5LWM4MmY4YjAwLTJkMTAtNDRhMS1iY2YwLTQyMjUxMzM4MTM4Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxOVQxNjM4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjBiYjZlY2VhMjhmN2NhYjc3MWJjNjgzNDNkMTIxYWQ1MDU0Njg0ZDhmYThjYTEzZGEyN2JiMWE0YmQ2NjI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9fx91aB-wKOhaHfdUwRqx9EFmjQP_0fQbxzdXHdUsaA)
+![دو ثانیه هم طول نکشید تا آیدی اصلی در بیاد!](pic/3.png)
 
 ---
 
@@ -85,7 +85,7 @@
 ```
 اینجوری وقتی کاربر روی دکمه کلیک می‌کنه، ربات کد رو می‌گیره، میره تو دیتابیس خودش نگاه می‌کنه و می‌فهمه باید پیام رو به کی بفرسته. تمام! هویت شما امن باقی می‌مونه.
 
-![این دیاگرام نشون می‌ده کار درست چجوریه](https://private-user-images.githubusercontent.com/118823267/479618548-5fa9817d-405c-4716-ac78-8bc2dfd378d8.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2MjE4MzIsIm5iZiI6MTc1NTYyMTUzMiwicGF0aCI6Ii8xMTg4MjMyNjcvNDc5NjE4NTQ4LTVmYTk4MTdkLTQwNWMtNDcxNi1hYzc4LThiYzJkZmQzNzhkOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxOVQxNjM4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01Y2I2ZGQzYmFmNjM4NjNlZjdhMjRjZDdiYzFiMWYyMWMxNjRhZTZhNWMzNDUyYTVlMGU3MTI1NzIwOWNhMWE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.XKOSSD6WQXcJU5CjoEKLpOicWyMIfKLwUJTLsxaEplU)
+![این دیاگرام نشون می‌ده کار درست چجوریه](pic/4.png)
 
 ### ۲. استفاده از رمزنگاری پیشرفته و چندمرحله‌ای 🔐
 
